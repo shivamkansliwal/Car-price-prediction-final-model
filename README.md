@@ -35,7 +35,6 @@ The datasets consist of several independent variables include:
 Dependent variable include
 •	selling_price
 
-
 3.	Exploratory Data Analysis (EDA):
 
 Following steps are performed to do exploratory data analysis on the data
