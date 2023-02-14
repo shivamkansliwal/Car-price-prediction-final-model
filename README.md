@@ -4,11 +4,11 @@ Car Price Prediction
 2. Loading Data and Explanation of Features
 3. Exploratory Data Analysis (EDA)
 4.	Feature Engineering
-
 5.	Feature Selection
 6. Applying Regression Models
 7. Experimental Results
 8. CONCLUSION
+
 
 1.	Introduction :
 Car price prediction is an important task in the automobile industry. Machine learning algorithms can be used to predict the price of a car based on various features such as make, model, year of manufacture, mileage, and more.
