@@ -7,4 +7,4 @@ Car Price Prediction
 5.	Feature Selection
 6. Applying Regression Models
 7. Experimental Results
-8. CONCLUSION
+8. Conclusion
